@@ -11,6 +11,8 @@ Step 2.  Create a Kaggle account at kaggle.com.   If you use the link below, it 
 Step 3.  Use the participation URL (must use this to join as a team)  https://www.kaggle.com/t/dec4bb142a954450883fc5a30f718f99.
 
 Step 4.  The competition will be held here for our class only: CSCI E-82 2026 | KaggleLinks to an external site.. You are to work in teams of 2 and there is a limit on the number of submissions per day per team.
+
+
 Step 5.  Put your classification superpowers tCSCI E-82 2026 | KaggleLinks to an external site.o the test.  There is no pre-filled notebook.  You have a problem of maximizing classification accuracy for a dataset.  We are not going to tell you what the dataset is at this point so that you don't waste your time chasing possibilities with pre-training.  In most of the past years, the variable names have not been found to be useful so x, y, z variables do not correspond to a simple geometric interpretation.  You are welcome to use any methods.  
 Each time you submit a set of predictions, you will receive a score for the set.  You will still want to perform training and test on your validation set, but you will send the best results to Kaggle to get feedback.  The winning team will have the best private score which corresponds to a second hidden dataset for which you cannot see the results. 
 
