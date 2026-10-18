@@ -14,4 +14,9 @@ dependencies:
   - pandoc
   - kagglehub
   - pytorch
-  
+  - kaggle
+  - lightgbm
+  - xgboost
+  - pip
+  - pip:
+    - flaml[automl]
