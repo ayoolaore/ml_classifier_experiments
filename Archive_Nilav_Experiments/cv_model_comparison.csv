@@ -1,0 +1,4 @@
+Model,CV ROC-AUC (mean),CV ROC-AUC (std),Best parameters,Seconds
+XGBoost,0.8486361818976121,0.010963940665485308,"{'classifier__learning_rate': 0.03, 'classifier__max_depth': 4, 'classifier__min_child_weight': 3, 'classifier__n_estimators': 250}",108.8
+Logistic Regression,0.8038165335913133,0.005358914012266254,"{'classifier__C': 0.1, 'classifier__class_weight': 'balanced', 'classifier__penalty': 'l1'}",42.4
+SHAP + Logistic Regression,0.7976971372729738,0.015863932338606845,"{'classifier__C': 0.3, 'classifier__class_weight': 'balanced', 'shap_select__n_features': 150}",46.4
